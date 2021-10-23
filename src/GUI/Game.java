@@ -42,7 +42,7 @@ public final class Game {
         SCORE_PANEL_COLOR = new Color(30,0,0);
         FRAME_WIDTH = 768;
         GAME_FRAME_SIZE = new Dimension(FRAME_WIDTH, FRAME_WIDTH);
-        ICON_PATH = "C:/Users/evcmo/IdeaProjects/SpaceShip/icon/meteor3.png";
+        ICON_PATH = "C:/Users/evcmo/IdeaProjects/SpaceShip-main/icon/meteor3.png";
         INSTANCE = new Game();
     }
 

@@ -29,7 +29,7 @@ public final class Utility {
 
     /* init */
     static {
-        IMAGE_PATH = "C:/Users/evcmo/IdeaProjects/SpaceShip/icon/";
+        IMAGE_PATH = "C:/Users/evcmo/IdeaProjects/SpaceShip-main/icon/";
     }
 
     public static final class Image {
